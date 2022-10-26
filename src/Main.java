@@ -32,7 +32,7 @@ abstract class Decorator implements Component
 
 }
 /*
-the class ConcreteDecorator extends the functionality of the interface
+the class ConcreteDecorator extends the functionality of the class ConcreteComponent
  */
 class ConcreteDecorator extends Decorator
 {
